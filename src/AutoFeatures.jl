@@ -1,5 +1,7 @@
 module AutoFeatures
 
-greet() = print("Hello World!")
+generate_features(df::DataFrame, timecol, id, fn_primitives) = begin
+
+end
 
 end # module

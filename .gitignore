@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 .DS_Store
 /Manifest.toml
 /dev/
+=======
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+deps/deps.jl
+>>>>>>> 4b360d807d110c13fcfb6fd9ca829e42afa002da
